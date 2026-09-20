@@ -27,3 +27,4 @@ for item in my_pc["games"]:
 my_pc["spacs"] = {"monitor": "1080P", "hz": 144}
 print(my_pc["spacs"]["hz"])
 
+print(my_pc)
